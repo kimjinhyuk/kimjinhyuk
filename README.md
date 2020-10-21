@@ -16,11 +16,11 @@
 
 > BackEnd / Server / DataBase
 
-| Python                                                       | Java                                                         | R                                                            | Apache/NginX                                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/doodle/48/000000/r.png"/>   | <img src="https://img.icons8.com/clouds/50/000000/server.png"/> |
-| **MySql/Postgresql**                                         | **Linux**                                                    | **Docker/kubernetes**                                        | **Jupyter**                                                  |
-| <img src="https://img.icons8.com/nolan/50/mysql.png"/>/<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | <img src="https://img.icons8.com/dusk/50/000000/linux.png"/> | <img src="https://img.icons8.com/color/48/000000/docker.png"/>/ <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/> | ![Thumbnail for version as of 14:45, 3 May 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/38/20190118024745%21Jupyter_logo.svg/120px-Jupyter_logo.svg.png) |
+| Python                                                       | Java                                                         | R                                                            | **Jupyter**                                                  |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/doodle/48/000000/r.png"/>   | ![Thumbnail for version as of 14:45, 3 May 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/38/20190118024745%21Jupyter_logo.svg/120px-Jupyter_logo.svg.png) |
+| **Linux**                                                    | **DB**                                                       | **Deployment**                                               | **Web/Server**                                               |
+| <img src="https://img.icons8.com/dusk/50/000000/linux.png"/> | <img src="https://img.icons8.com/office/40/000000/add-database.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/> | <img src="https://img.icons8.com/clouds/50/000000/server.png"/> |
 
 
 > FrameWork / Library
@@ -33,8 +33,7 @@
 
 ## 운영중인 기술 블로그
 
-<a href="https://blog.jinhyuk.kim/">
-<img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" /></a>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinhyuk&repo=kimjinhyuk.github.io&theme=radical)
 
 ## 서비스중인 웹사이트 
 
