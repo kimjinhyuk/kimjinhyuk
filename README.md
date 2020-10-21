@@ -33,7 +33,7 @@
 
 ## 운영중인 기술 블로그
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinhyuk&repo=kimjinhyuk.github.io&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinhyuk&repo=kimjinhyuk.github.io&theme=radical)(https://blog.jinhyuk.kim)
 
 ## 서비스중인 웹사이트 
 
