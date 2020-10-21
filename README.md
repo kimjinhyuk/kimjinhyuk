@@ -6,7 +6,6 @@
 
 ##  Stack : 기술 목록
 
-
 > Front
 
 | JS                                                           | Css                                                          | Html                                                         | UI/UX                                                       |
@@ -30,14 +29,9 @@
 | <img src="https://img.icons8.com/color/48/000000/django.png"/> | <img src="https://img.icons8.com/clouds/50/000000/react.png"/> |
 
 
-
 ## 운영중인 기술 블로그
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinhyuk&repo=kimjinhyuk.github.io&theme=radical)](https://blog.jinhyuk.kim)
-
-```
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinhyuk&repo=kimjinhyuk.github.io&theme=radical)](https://blog.jinhyuk.kim)
-```
 
 ## 서비스중인 웹사이트 
 
@@ -45,5 +39,9 @@
 - [ ] Twitter 클론코딩
 - [ ] TodoList 를 위한 TodoList 사이트
 - [ ] 영화 소개 페이지
+
+![Jin's github stats](https://github-readme-stats.vercel.app/api?username=kimjinhyuk&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinhyuk&layout=compact)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinhyuk%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
