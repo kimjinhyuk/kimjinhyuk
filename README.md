@@ -18,7 +18,7 @@
 - 💬 Ask me about anything [here](https://github.com/kimjinhyuk/kimjinhyuk/issues)
 - 🔭 Currently working on [CXR-Classify covid 19](https://github.com/Lagom92/CXR_AI) and [Hackerton DreamAiI](https://github.com/Lagom92/DreamAi), check it out !
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagom92&repo=CXR_AI)](https://github.com/Lagom92/CXR_AI)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagom92&repo=DreamAi)](https://github.com/Lagom92/DreamAi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagom92&repo=CXR_AI)](https://github.com/Lagom92/CXR_AI)
 
 #### Tools
 
