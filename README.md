@@ -2,7 +2,7 @@
 
  Currently study in Gwang ju AI institute, software engineer apprentice and a fond of Web development (Full stack) field. I have interested in improve the Machine Learning model as well
 
-[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=kimjinhyuk&theme=calm&show_icons=true)](https://github.com/gyoogle/github-readme-stats)
+[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=kimjinhyuk&theme=flag-india&show_icons=true)](https://github.com/gyoogle/github-readme-stats)
 
 ####  Personal Learning Journal
 
@@ -18,7 +18,7 @@
 - 💬 Ask me about anything [here](https://github.com/kimjinhyuk/kimjinhyuk/issues)
 - 🔭 Currently working on [CXR-Classify covid 19](https://github.com/Lagom92/CXR_AI) and [Hackerton DreamAiI](https://github.com/Lagom92/DreamAi), check it out !
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagom92&repo=CXR_AI)](https://github.com/Lagom92/CXR_AI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagom92&theme=flag-india&repo=DreamAi&)](https://github.com/Lagom92/DreamAi)
 
 #### Tools
 
