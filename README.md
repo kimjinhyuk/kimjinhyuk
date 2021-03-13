@@ -1,6 +1,6 @@
 ###  Hi there, I'm Jin 👋
 
- Currently study in Gwang ju AI institute, software engineer apprentice and a fond of Web development (Full stack) field. I have interested in improve the Machine Learning model as well
+Software engineer apprentice and a fond of Web development (Full stack) field. I have interested in improve the Machine Learning model as well
 
 [![Jin's github stats](https://github-readme-stats.vercel.app/api?username=kimjinhyuk&theme=flag-india&show_icons=true)](https://github.com/gyoogle/github-readme-stats)
 
