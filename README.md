@@ -1,8 +1,5 @@
 ###  Hi there, I'm Jin 👋
 
-A fond of coding Deep Learning and Web development (Full stack) field. I have interested in improve the model what i code.
-Current work in the Metalab.
-
 [![Jin's github stats](https://github-readme-stats.vercel.app/api?username=kimjinhyuk&theme=flag-india&show_icons=true)](https://github.com/gyoogle/github-readme-stats)
 
 ####  Personal Learning Journal
