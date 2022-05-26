@@ -1,8 +1,7 @@
 ###  Hi there, I'm Jin 👋
 
-
-
-####  Personal Learning Journal
+####  Introduce.   
+I am a web developer interested in FrontEnd Stacks.
 
 <p align="left">
   <a href="https://blog.jinhyuk.kim/"><img src="https://img.shields.io/badge/My%20blog-blog.jinhyuk.kim-red?style=for-the-badge&logo=github"/>
