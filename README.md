@@ -5,7 +5,7 @@
 [![Physical AI](https://img.shields.io/badge/%F0%9F%A4%96_Physical_AI-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](https://blog.jinhyuk.kim)
 [![On-device LLM](https://img.shields.io/badge/%F0%9F%A7%A0_On--device_LLM-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](https://github.com/kimjinhyuk/allescare-bom)
 [![Fullstack](https://img.shields.io/badge/%E2%9A%A1_Fullstack-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](https://jinhyuk.kim)
-[![Open to remote](https://img.shields.io/badge/%F0%9F%8C%8F_Open_to_remote-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](mailto:kimjinhyuk2@gmail.com)
+[![Open to remote](https://img.shields.io/badge/%F0%9F%8C%8F_Open_to_remote-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](mailto:contact@jinhyuk.kim)
 
 <br/>
 
@@ -14,19 +14,19 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Bom <sub><sub>· OSS</sub></sub></h3>
+<p><b>Bom</b> &nbsp;<sub>OSS · on-device LLM</sub></p>
 <p>On-device senior care AI. Daily wellness chats via KakaoTalk, family digests, Gemma 4 E2B. <em>No cloud. No data leaving home.</em></p>
 <p><sub>→ <a href="https://github.com/kimjinhyuk/allescare-bom"><b>github.com/kimjinhyuk/allescare-bom</b></a></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3>MRC <sub><sub>· 협동로봇 통합 플랫폼</sub></sub></h3>
+<p><b>MRC</b> &nbsp;<sub>협동로봇 통합 플랫폼</sub></p>
 <p>Hardware-agnostic open AI-native cobot platform. <em>6 vendors, one API, one node editor.</em> FastAPI + React Flow + ROS2 + pybind11.</p>
 <p><sub>→ <a href="https://blog.jinhyuk.kim/projects/mrc/"><b>blog.jinhyuk.kim/projects/mrc</b></a></sub></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3>DRP — Drawing Robot Platform <sub><sub>· AI line drawing · 9-part series</sub></sub></h3>
+<p><b>DRP — Drawing Robot Platform</b> &nbsp;<sub>AI line drawing · 9-part series</sub></p>
 <p>Photos transformed into line drawings by Gemini AI, drawn in real time by industrial robot arms (JAKA). Remote monitoring across field deployments. End-to-end design decisions documented in a 9-part series — <em>from raw TCP protocol to pen calibration to Flutter monorepo.</em></p>
 <p><sub>→ <a href="https://blog.jinhyuk.kim/projects/drp/"><b>blog.jinhyuk.kim/projects/drp</b></a></sub></p>
 </td>
@@ -92,5 +92,5 @@
 &nbsp;·&nbsp;
 → <a href="https://www.linkedin.com/in/kimjinhyuk2/"><b>linkedin</b></a>
 &nbsp;·&nbsp;
-→ <a href="mailto:kimjinhyuk2@gmail.com"><b>kimjinhyuk2@gmail.com</b></a>
+→ <a href="mailto:contact@jinhyuk.kim"><b>contact@jinhyuk.kim</b></a>
 </sub>

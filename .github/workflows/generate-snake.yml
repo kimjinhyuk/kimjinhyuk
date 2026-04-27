@@ -28,17 +28,37 @@ jobs:
       - name: Cache stats SVGs from github-readme-stats
         run: |
           mkdir -p dist
+
+          fetch_with_retry() {
+            local url="$1"
+            local out="$2"
+            for attempt in 1 2 3; do
+              if curl -sSL --max-time 30 "$url" -o "${out}.tmp" && [ -s "${out}.tmp" ]; then
+                if head -c 5 "${out}.tmp" | grep -qiE '<svg|<\?xml'; then
+                  mv "${out}.tmp" "${out}"
+                  echo "ok: $out ($(wc -c < ${out}) bytes)"
+                  return 0
+                fi
+              fi
+              echo "attempt $attempt failed for $(basename ${out}); retrying in 8s..."
+              sleep 8
+            done
+            rm -f "${out}.tmp"
+            echo "WARN: all attempts failed for $(basename ${out}); previous version kept (if any)"
+          }
+
           STATS_BASE="bg_color=0a0a0a&title_color=2dd4bf&text_color=fafafa&icon_color=2dd4bf&hide_border=true"
 
-          curl -fsSL --retry 3 --retry-delay 10 \
+          fetch_with_retry \
             "https://github-readme-stats.vercel.app/api?username=kimjinhyuk&show_icons=true&hide=stars,issues&${STATS_BASE}" \
-            -o dist/stats.svg \
-            || echo "stats fetch failed; keeping previous"
+            "dist/stats.svg"
 
-          curl -fsSL --retry 3 --retry-delay 10 \
+          fetch_with_retry \
             "https://github-readme-stats.vercel.app/api/top-langs?username=kimjinhyuk&layout=compact&${STATS_BASE}" \
-            -o dist/top-langs.svg \
-            || echo "top-langs fetch failed; keeping previous"
+            "dist/top-langs.svg"
+
+          echo "--- dist contents ---"
+          ls -la dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
