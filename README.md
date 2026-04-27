@@ -5,7 +5,7 @@
 [![Physical AI](https://img.shields.io/badge/%F0%9F%A4%96_Physical_AI-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](https://blog.jinhyuk.kim)
 [![On-device LLM](https://img.shields.io/badge/%F0%9F%A7%A0_On--device_LLM-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](https://github.com/kimjinhyuk/allescare-bom)
 [![Fullstack](https://img.shields.io/badge/%E2%9A%A1_Fullstack-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](https://jinhyuk.kim)
-[![Open to remote](https://img.shields.io/badge/%F0%9F%8C%8F_Open_to_remote-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](mailto:kimjinhyuk2@gmail.com)
+[![Open to remote](https://img.shields.io/badge/%F0%9F%8C%8F_Open_to_remote-2dd4bf?style=for-the-badge&labelColor=0a0a0a)](mailto:contact@jinhyuk.kim)
 
 <br/>
 
@@ -92,5 +92,5 @@
 &nbsp;·&nbsp;
 → <a href="https://www.linkedin.com/in/kimjinhyuk2/"><b>linkedin</b></a>
 &nbsp;·&nbsp;
-→ <a href="mailto:kimjinhyuk2@gmail.com"><b>kimjinhyuk2@gmail.com</b></a>
+→ <a href="mailto:contact@jinhyuk.kim"><b>contact@jinhyuk.kim</b></a>
 </sub>
