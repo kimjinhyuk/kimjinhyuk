@@ -74,9 +74,10 @@
 
 </td>
 <td width="38%" valign="top">
-
-![Stats](https://raw.githubusercontent.com/kimjinhyuk/kimjinhyuk/output/stats.svg)
-
+<p><b>Now</b></p>
+<p>Shipping <b>MRC</b> — multi-vendor cobot integration with adapter pattern. Iterating <b>Bom</b> 0→1.</p>
+<p>Reading: world models, embodied agents, the <em>seam between intent and machine</em>.</p>
+<p><sub>→ <a href="https://blog.jinhyuk.kim"><b>more on blog.jinhyuk.kim</b></a></sub></p>
 </td>
 </tr>
 </table>
