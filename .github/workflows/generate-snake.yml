@@ -1,0 +1,49 @@
+name: Generate Snake & Cache Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 03:00 UTC = 12:00 KST daily
+  workflow_dispatch:
+  push:
+    branches: [master, main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation (brand colors)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: kimjinhyuk
+          outputs: |
+            dist/snake.svg?color_snake=%232dd4bf&color_dots=%231a1a1a,%23404040,%232dd4bf,%235eead4,%23fafafa
+
+      - name: Cache stats SVGs from github-readme-stats
+        run: |
+          mkdir -p dist
+          STATS_BASE="bg_color=0a0a0a&title_color=2dd4bf&text_color=fafafa&icon_color=2dd4bf&hide_border=true"
+
+          curl -fsSL --retry 3 --retry-delay 10 \
+            "https://github-readme-stats.vercel.app/api?username=kimjinhyuk&show_icons=true&hide=stars,issues&${STATS_BASE}" \
+            -o dist/stats.svg \
+            || echo "stats fetch failed; keeping previous"
+
+          curl -fsSL --retry 3 --retry-delay 10 \
+            "https://github-readme-stats.vercel.app/api/top-langs?username=kimjinhyuk&layout=compact&${STATS_BASE}" \
+            -o dist/top-langs.svg \
+            || echo "top-langs fetch failed; keeping previous"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
