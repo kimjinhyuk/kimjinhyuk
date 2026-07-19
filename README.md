@@ -38,9 +38,9 @@
 ## ✎ &nbsp; RECENT THINKING
 
 <!-- BLOG-FEED:START -->
-- [MRC #02 — Python 버전 지옥: 3.5 전용 SDK 와 3.10+ 메인 서버 공존시키기](https://blog.jinhyuk.kim/projects/mrc/2026-04-26-02-python-version-isolation)  <sub>· 2026.04.26</sub>
-- [MRC #01 — 멀티벤더 협동로봇 통합 아키텍처: Core ABC + 어댑터 패턴](https://blog.jinhyuk.kim/projects/mrc/2026-04-26-01-multi-vendor-architecture)  <sub>· 2026.04.26</sub>
-- [MRC #00 — 시스템 전체 개요와 아키텍처 결정 기록 (ADR)](https://blog.jinhyuk.kim/projects/mrc/2026-04-26-00-system-overview-adr)  <sub>· 2026.04.26</sub>
+- [전자결재 양식 14종을 컴포넌트 14개 없이 만드는 법 — 스키마 엔진 + 플러그인](https://blog.jinhyuk.kim/projects/groupware/2026-07-20-schema-driven-approval-form-engine)  <sub>· 2026.07.20</sub>
+- [프론트 자동계산을 믿지 않는 법 — 결정적 폼 계산과 서버 재검증](https://blog.jinhyuk.kim/projects/groupware/2026-07-20-deterministic-form-calculation)  <sub>· 2026.07.20</sub>
+- [동적 폼 엔진 E2E가 잡아낸 것들 — 계산보다 어려웠던 상태 동기화](https://blog.jinhyuk.kim/projects/groupware/2026-07-20-form-engine-e2e-lessons)  <sub>· 2026.07.20</sub>
 <!-- BLOG-FEED:END -->
 
 <sub>→ <a href="https://blog.jinhyuk.kim"><b>blog.jinhyuk.kim</b></a> &nbsp;·&nbsp; auto-refreshed daily</sub>
