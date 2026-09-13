@@ -38,9 +38,9 @@
 ## ✎ &nbsp; RECENT THINKING
 
 <!-- BLOG-FEED:START -->
+- [AI 자격증 #00 — 2026 자격증 지형과 공식 자료 총정리](https://blog.jinhyuk.kim/certs/2026-08-18-00-exam-landscape-and-resources)  <sub>· 2026.08.18</sub>
 - [전자결재 양식 14종을 컴포넌트 14개 없이 만드는 법 — 스키마 엔진 + 플러그인](https://blog.jinhyuk.kim/projects/groupware/2026-07-20-schema-driven-approval-form-engine)  <sub>· 2026.07.20</sub>
 - [프론트 자동계산을 믿지 않는 법 — 결정적 폼 계산과 서버 재검증](https://blog.jinhyuk.kim/projects/groupware/2026-07-20-deterministic-form-calculation)  <sub>· 2026.07.20</sub>
-- [동적 폼 엔진 E2E가 잡아낸 것들 — 계산보다 어려웠던 상태 동기화](https://blog.jinhyuk.kim/projects/groupware/2026-07-20-form-engine-e2e-lessons)  <sub>· 2026.07.20</sub>
 <!-- BLOG-FEED:END -->
 
 <sub>→ <a href="https://blog.jinhyuk.kim"><b>blog.jinhyuk.kim</b></a> &nbsp;·&nbsp; auto-refreshed daily</sub>
